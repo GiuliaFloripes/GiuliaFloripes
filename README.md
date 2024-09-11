@@ -1,3 +1,6 @@
+<img align="right" src="https://raw.githubusercontent.com/GiuliaFloripes/GiuliaFloripes/main/assets/img/HomeOffice.gif" width="350"/>
+💻 Conheça um pouco sobre minha carreira no meu [**portfólio**](https://giulia-floripes.vercel.app/)
+
 Abaixo os assuntos que se destacam no meu dia a dia:
 
 🔭 Estudo atualmente na Anhembi Morumbi
